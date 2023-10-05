@@ -1,0 +1,13 @@
+Q1:
+Advantages of static site generation:
+- Loads faster
+- Don't need to manage database
+- Simple to implement
+
+Disadvantages:
+- Need to redeploy if when changing content
+- Can't get user input
+- User can't interact with website
+
+Q2:
+https://ale2cs.github.io/
